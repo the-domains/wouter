@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'These are the projects i am currently working on:'
-datePublished: '2016-04-10T21:13:45.802Z'
-dateModified: '2016-04-10T21:11:47.344Z'
+datePublished: '2016-04-10T21:20:53.330Z'
+dateModified: '2016-04-10T21:20:52.919Z'
 title: Current Projects
 author: []
 sourcePath: _posts/2016-04-10-current-projects.md
@@ -26,6 +26,5 @@ _type: Article
 
 These are the projects i am currently working on:
 
-\* AI user interface
-
-\* Efficient Graph Isomorphism
+* AI user interface
+* Efficient GI (Graph Isomorphism)
