@@ -4,11 +4,18 @@
         <description><![CDATA[wouter]]></description>
         <link>https://thegrid.ai/wouter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 20:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 21:03:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wouter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>*Blah blah blah</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1c1256ec6479d908c09084c238395eea30617b4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wouter/c9c80d37-7f7e-42fd-a805-20911b0f77a9/index.html</link>
+            <guid isPermaLink="false">c9c80d37-7f7e-42fd-a805-20911b0f77a9</guid>
+            <pubDate>Sun, 10 Apr 2016 21:03:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Oekraïense premier Jatsenjoek treedt af]]></title>
-            <description><![CDATA[<article><h1>Oekraïense premier Jatsenjoek treedt af</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c61bdb2-8ade-458b-86cc-4cfabb2ba943.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Oekraïense premier Jatsenjoek treedt af</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/000820012c74ec7be068cf8fbe3e90116b5b8b66.jpg"></article>]]></description>
             <link>https://thegrid.ai/wouter/oekraiense-premier-jatsenjoek-treedt-af/index.html</link>
             <guid isPermaLink="false">90a18808-98c5-4cf4-9ed3-acc8e98b49f3</guid>
             <pubDate>Sun, 10 Apr 2016 20:47:19 GMT</pubDate>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/wouter/a6ef4bbd-1633-4049-8fee-d59d8102bde0/index.html</link>
             <guid isPermaLink="false">a6ef4bbd-1633-4049-8fee-d59d8102bde0</guid>
             <pubDate>Sun, 10 Apr 2016 20:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><p>* About Me</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1c1256ec6479d908c09084c238395eea30617b4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wouter/c9c80d37-7f7e-42fd-a805-20911b0f77a9/index.html</link>
-            <guid isPermaLink="false">c9c80d37-7f7e-42fd-a805-20911b0f77a9</guid>
-            <pubDate>Sun, 10 Apr 2016 20:23:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
