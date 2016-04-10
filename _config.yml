@@ -1,7 +1,7 @@
 name: wouter
 favicon: null
-layout_spectrum: 0.9656884765718132
-typography_spectrum: 0.2833448483143002
+layout_spectrum: 0.7575085051357746
+typography_spectrum: 0.858266486087814
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8940659086219966
-  lightness: 0.9477980518713593
-  saturation: 0.7991228078026325
-  rhythmicContrast: 0.3590410032775253
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6561754080466926
+  lightness: 0.04804665665142238
+  saturation: 0.2455939925275743
+  rhythmicContrast: 0.004712632857263088
 purpose: []
