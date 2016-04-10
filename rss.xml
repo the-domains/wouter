@@ -4,21 +4,21 @@
         <description><![CDATA[wouter]]></description>
         <link>https://thegrid.ai/wouter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 21:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 21:20:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wouter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Current Projects]]></title>
+            <description><![CDATA[<article><h1>Current Projects</h1><p>These are the projects i am currently working on:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b62374f-35e0-433a-8c9c-9a77188af620.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wouter/current-projects/index.html</link>
+            <guid isPermaLink="false">c0b10d95-4508-4fb3-9116-4f56b6fc60fe</guid>
+            <pubDate>Sun, 10 Apr 2016 21:20:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>Blah blah blah</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1c1256ec6479d908c09084c238395eea30617b4.jpg"></article>]]></description>
             <link>https://thegrid.ai/wouter/c9c80d37-7f7e-42fd-a805-20911b0f77a9/index.html</link>
             <guid isPermaLink="false">c9c80d37-7f7e-42fd-a805-20911b0f77a9</guid>
             <pubDate>Sun, 10 Apr 2016 21:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Current Projects]]></title>
-            <description><![CDATA[<article><h1>Current Projects</h1><p>These are the projects i am currently working on:</p></article>]]></description>
-            <link>https://thegrid.ai/wouter/current-projects/index.html</link>
-            <guid isPermaLink="false">c0b10d95-4508-4fb3-9116-4f56b6fc60fe</guid>
-            <pubDate>Sun, 10 Apr 2016 21:13:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oekraïense premier Jatsenjoek treedt af]]></title>
