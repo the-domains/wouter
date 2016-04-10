@@ -1,7 +1,7 @@
 name: wouter
 favicon: null
-layout_spectrum: 0.20012570777907968
-typography_spectrum: 0.2675741692073643
+layout_spectrum: 0.7575085051357746
+typography_spectrum: 0.858266486087814
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.21353380382061005
-  lightness: 0.04645250574685633
-  saturation: 0.5117621861863881
-  rhythmicContrast: 0.852071910398081
+  brandStrength: 0.6561754080466926
+  lightness: 0.04804665665142238
+  saturation: 0.2455939925275743
+  rhythmicContrast: 0.004712632857263088
 purpose: []
