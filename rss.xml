@@ -2,30 +2,16 @@
     <channel>
         <title><![CDATA[wouter]]></title>
         <description><![CDATA[wouter]]></description>
-        <link>https://thegrid.ai/wouter/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 21:44:59 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/wouter/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 16:22:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/843551ba-5f68-4a58-99a9-db0507e18d58.jpg">]]></description>
-            <link>https://thegrid.ai/wouter/e223dd35-cf5b-4485-8b91-6b75ec6d364c/index.html</link>
-            <guid isPermaLink="false">e223dd35-cf5b-4485-8b91-6b75ec6d364c</guid>
-            <pubDate>Sun, 10 Apr 2016 21:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oekraïense premier Jatsenjoek treedt af]]></title>
-            <description><![CDATA[<article><h1>Oekraïense premier Jatsenjoek treedt af</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/000820012c74ec7be068cf8fbe3e90116b5b8b66.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wouter/oekraiense-premier-jatsenjoek-treedt-af/index.html</link>
-            <guid isPermaLink="false">90a18808-98c5-4cf4-9ed3-acc8e98b49f3</guid>
-            <pubDate>Sun, 10 Apr 2016 20:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8496ce11-274b-4e6e-abbc-03128cd48b65.png">]]></description>
-            <link>https://thegrid.ai/wouter/a6ef4bbd-1633-4049-8fee-d59d8102bde0/index.html</link>
-            <guid isPermaLink="false">a6ef4bbd-1633-4049-8fee-d59d8102bde0</guid>
-            <pubDate>Sun, 10 Apr 2016 20:39:40 GMT</pubDate>
+            <title><![CDATA[Europe trip 2014]]></title>
+            <description><![CDATA[<article><h1>Europe trip 2014</h1><p>In 2014 i made a trip mainly through east europe. On https://thegrid.ai/europe2014 you can view pictures from this trip.</p></article>]]></description>
+            <link>undefinedeurope-trip-2014/index.html</link>
+            <guid isPermaLink="false">480b363b-61a7-4b2f-8e11-3a0ccd7b507a</guid>
+            <pubDate>Wed, 13 Apr 2016 16:21:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
