@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[wouter]]></title>
         <description><![CDATA[wouter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wouter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:22:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 16:23:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wouter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Europe trip 2014]]></title>
-            <description><![CDATA[<article><h1>Europe trip 2014</h1><p>In 2014 i made a trip mainly through east europe. On https://thegrid.ai/europe2014 you can view pictures from this trip.</p></article>]]></description>
-            <link>undefinedeurope-trip-2014/index.html</link>
+            <description><![CDATA[<article><h1>Europe trip 2014</h1><p>In 2014 i made a trip mainly through east europe. On https://thegrid.ai/europe2014 you can view pictures from this trip.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc21f361-418e-4e5c-ba3d-2958e3a227d7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wouter/europe-trip-2014/index.html</link>
             <guid isPermaLink="false">480b363b-61a7-4b2f-8e11-3a0ccd7b507a</guid>
-            <pubDate>Wed, 13 Apr 2016 16:21:38 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 16:23:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
