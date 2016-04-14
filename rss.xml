@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[wouter]]></title>
-        <description><![CDATA[wouter]]></description>
-        <link>https://thegrid.ai/wouter/</link>
+        <title><![CDATA[Wouter Timmermans]]></title>
+        <description><![CDATA[Wouter Timmermans]]></description>
+        <link>http://fullstackdev.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 12:02:26 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/wouter/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 14:12:37 GMT</lastBuildDate>
+        <atom:link href="http://fullstackdev.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The truth of life]]></title>
-            <description><![CDATA[<article><h1>The truth of life</h1><p>You can't handle the truth</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaabdd24-e558-49f4-9c91-6ee7ecd6eedc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wouter/the-truth-of-life/index.html</link>
-            <guid isPermaLink="false">ad93065f-8128-4262-a017-d818338be473</guid>
-            <pubDate>Thu, 14 Apr 2016 12:01:02 GMT</pubDate>
+            <title><![CDATA[Hardloopschoen versleten? Gewoon doorlopen.]]></title>
+            <description><![CDATA[<article><h1>Hardloopschoen versleten? Gewoon doorlopen.</h1><p>Recreatief hardlopen is heel gezond, maar per 1.000 hardloopuren zijn er 2,5 tot 38 blessures te betreuren. Ja, de cijfers variëren. Er is onderzoek gedaan, maar de ene onderzoeker telt een dag lang pijn al als blessure, terwijl de andere 'een week niet kunnen rennen' als criterium neemt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6010478417e711f5b1116b6bd402f025544cbf79.jpg"></article>]]></description>
+            <link>http://www.nrc.nl/next/2016/01/11/moeten-loopschoenen-dempen-1576816</link>
+            <guid isPermaLink="false">b4ccb48d-4abc-489b-aad9-83899b83718d</guid>
+            <pubDate>Thu, 14 Apr 2016 14:11:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Europe trip 2014]]></title>
             <description><![CDATA[<article><h1>Europe trip 2014</h1><p>In 2014 i made a trip mainly through east europe. On https://thegrid.ai/europe2014 you can view pictures from this trip.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc21f361-418e-4e5c-ba3d-2958e3a227d7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wouter/europe-trip-2014/index.html</link>
+            <link>http://fullstackdev.nl/europe-trip-2014/index.html</link>
             <guid isPermaLink="false">480b363b-61a7-4b2f-8e11-3a0ccd7b507a</guid>
             <pubDate>Wed, 13 Apr 2016 16:23:10 GMT</pubDate>
         </item>
