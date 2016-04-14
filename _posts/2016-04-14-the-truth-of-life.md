@@ -61,8 +61,8 @@ description: >-
   vel lacinia metus nibh at elit. Duis fringilla sapien ac neque laoreet, non
   cursus lectus condimentum. Donec ante urna, rutrum eget erat a, tempus
   elementum libero. Mauris ut lacus vitae erat auctor placerat.
-datePublished: '2016-04-14T11:47:18.523Z'
-dateModified: '2016-04-14T11:46:49.771Z'
+datePublished: '2016-04-14T11:48:18.473Z'
+dateModified: '2016-04-14T11:47:22.122Z'
 title: The truth of life
 author: []
 sourcePath: _posts/2016-04-14-the-truth-of-life.md
