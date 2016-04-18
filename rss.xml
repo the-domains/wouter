@@ -4,11 +4,18 @@
         <description><![CDATA[Wouter Timmermans]]></description>
         <link>http://fullstackdev.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 08:50:09 GMT</lastBuildDate>
         <atom:link href="http://fullstackdev.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Kronos]]></title>
+            <description><![CDATA[<article><h1>Kronos</h1><p>De organisatie kijkt tevreden terug op een goed verloop van de wedstrijd! Het vernieuwde parcours startte op de baan, liep over opgebroken wegen, over onverharde bospaden, bestond uit veel bochten en liep vlak voor de laatste honderd meter nog over de heuvel heen. Het werd ervaren als erg mooi, maar zwaar.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31360ad1331f4c2bc1fce9f9ef4ba2b01a82e604.jpg"></article>]]></description>
+            <link>https://www.kronos.nl/</link>
+            <guid isPermaLink="false">98c30755-8ad3-4df4-98a4-1471eb3cb334</guid>
+            <pubDate>Mon, 18 Apr 2016 08:49:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Secure Secure Shell]]></title>
-            <description><![CDATA[<article><h1>Secure Secure Shell</h1><p>You attempted to reach stribika.github.io, but instead you actually reached a server identifying itself as a shape shifter humanoid reptile alien. This may be caused by a misconfiguration on the server or something more serious. An attacker on your network could be trying to get you to visit a fake (and definitely harmful) version of stribika.github.io.</p><img src="https://stribika.github.io/assets/nsa-happy-dance.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Secure Secure Shell</h1><p>You attempted to reach stribika.github.io, but instead you actually reached a server identifying itself as a shape shifter humanoid reptile alien. This may be caused by a misconfiguration on the server or something more serious. An attacker on your network could be trying to get you to visit a fake (and definitely harmful) version of stribika.github.io.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4ed8aaff61f5090e78dab14c9b4ee6010e4898c.png"></article>]]></description>
             <link>https://stribika.github.io/2015/01/04/secure-secure-shell.html</link>
             <guid isPermaLink="false">20154b3e-16ff-40ce-99fd-39a9d73b9ff4</guid>
             <pubDate>Thu, 14 Apr 2016 14:20:47 GMT</pubDate>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Europe trip 2014]]></title>
-            <description><![CDATA[<article><h1>Europe trip 2014</h1><p>In 2014 i made a trip mainly through east europe. On https://thegrid.ai/europe2014 you can view pictures from this trip.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc21f361-418e-4e5c-ba3d-2958e3a227d7.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc21f361-418e-4e5c-ba3d-2958e3a227d7.jpg">]]></description>
             <link>http://fullstackdev.nl/europe-trip-2014/index.html</link>
             <guid isPermaLink="false">480b363b-61a7-4b2f-8e11-3a0ccd7b507a</guid>
             <pubDate>Wed, 13 Apr 2016 16:23:10 GMT</pubDate>
