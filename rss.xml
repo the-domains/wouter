@@ -4,21 +4,21 @@
         <description><![CDATA[Wouter Timmermans]]></description>
         <link>http://fullstackdev.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 10:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 10:04:34 GMT</lastBuildDate>
         <atom:link href="http://fullstackdev.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e0352dc-4ece-4517-9750-6311d02166f4.jpg" alt="Pothole cover in Prague">]]></description>
+            <link>http://fullstackdev.nl/in-2014-i-made-a-trip-mainly-through-eastern-europe-on-http/index.html</link>
+            <guid isPermaLink="false">6bfdc276-3ac5-4b97-afcc-3570e6584567</guid>
+            <pubDate>Mon, 22 Aug 2016 10:03:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schoen versleten? Gewoon doorlopen!]]></title>
             <description><![CDATA[<article><h1>Schoen versleten? Gewoon doorlopen!</h1><p>Recreatief hardlgopen is heel gezond, maar  term sper 1.000 hardloopuren zijn er 2,5 tot 38 blessures te betreuren. Ja, de cijfers variëren. Er is onderzoek gedaan, maar dehss thrones g s geen gym tubantia tr ene onderzoeker telt een dag lang pijn al atweeën ls blessure, terwijl de anhybride wwgdere 'een weer yytut z gunt htc rennen' als criterium neemt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6010478417e711f5b1116b6bd402f025544cbf79.jpg"></article>]]></description>
             <link>http://www.nrc.nl/next/2016/01/11/moeten-loopschoenen-dempen-1576816</link>
             <guid isPermaLink="false">b4ccb48d-4abc-489b-aad9-83899b83718d</guid>
             <pubDate>Fri, 19 Aug 2016 10:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secure Secure Shell]]></title>
-            <description><![CDATA[<article><h1>Secure Secure Shell</h1><p>You attempted to reach stribika.github.io, but instead you actually reached a server identifying itself as a shape shifter humanoid reptile alien. This may be caused by a misconfiguration on the server or something more serious. An attacker on your network could be trying to get you to visit a fake (and definitely harmful) version of stribika.github.io.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4ed8aaff61f5090e78dab14c9b4ee6010e4898c.png"></article>]]></description>
-            <link>https://stribika.github.io/2015/01/04/secure-secure-shell.html</link>
-            <guid isPermaLink="false">20154b3e-16ff-40ce-99fd-39a9d73b9ff4</guid>
-            <pubDate>Fri, 19 Aug 2016 10:27:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Understanding the SSH Encryption and Connection Process | DigitalOcean]]></title>
