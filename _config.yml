@@ -1,15 +1,16 @@
-typography_spectrum: 0.858266486087814
+typography_spectrum: 0.3608056455850601
 color:
   brandColors:
-    - '#2c302e'
-    - '#c5d0dd'
-    - '#909590'
-    - '#e6efe1'
     - '#000000'
-  brandStrength: 0.5
-  lightness: 0.875
-  saturation: 0.1875
-  rhythmicContrast: 0
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.2875822053756565
+  lightness: 0.9347693440504372
+  saturation: 0.958347684238106
+  rhythmicContrast: 0.19057315471582115
+github: true
 opengraph:
   image: null
   type: null
@@ -19,11 +20,25 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: wouter
+author:
+  name: Wouter Timmermans
+  email: wouter@woutertimmermans.nl
+  url: 'http://fullstackdev.nl'
+name: Wouter Timmermans
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About me
+    id: 7c8c35d7-da2d-4dbf-bc25-3221d07fedef
+    type: content
+  - name: CreaTe
+    url: 'http://thegrid.ai/wouter-does-create'
+    type: external
 favicon: null
 title: Wouter Timmermans
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:wouter@woutertimmermans.nl'
+    label: Contact me
