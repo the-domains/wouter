@@ -1,21 +1,21 @@
-typography_spectrum: 0.3608056455850601
+layout_spectrum: 0.825742038275106
+typography_spectrum: 0.5646114994208375
 color:
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-  brandStrength: 0.2875822053756565
-  lightness: 0.9347693440504372
-  saturation: 0.958347684238106
-  rhythmicContrast: 0.19057315471582115
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.7903594370711005
+  lightness: 0.7169459583933031
+  saturation: 0.9225514615930175
+  rhythmicContrast: 0.408105899361746
 github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.25804
 analytics:
   google: null
   facebook: null
@@ -42,3 +42,4 @@ purpose:
   - type: contact
     url: 'mailto:wouter@woutertimmermans.nl'
     label: Contact me
+content: []
